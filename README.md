@@ -16,7 +16,7 @@ Now, you're all set and can start the application by running the next command in
 ```npm start```
 
 ## Customization
-For the customization options you can consult the wiki.
+For the customization options you can consult the [customization page](https://github.com/Spars3Matrix/spotify-wallpaper/wiki/Customization) in the wiki.
 
 ## License 
 Spotify Wallpaper is licensed a MIT license that is available [here](https://github.com/Spars3Matrix/spotify-wallpaper/blob/master/LICENSE).
