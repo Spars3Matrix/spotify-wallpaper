@@ -9,7 +9,7 @@ Second, you need to install the dependencies. This can easily be done by running
 
 ```npm install```
 
-After this, you have to get required keys from Spotify and store them in the 'config.json' file. You can get the keys [here](https://developer.spotify.com/dashboard/applications).
+After this, you have to get the required keys from Spotify and store them in the 'config.json' file. You can get the keys [here](https://developer.spotify.com/dashboard/applications).
 
 Now, you're all set and can start the application by running the next command in the project root.
 
