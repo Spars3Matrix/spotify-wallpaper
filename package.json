@@ -1,0 +1,19 @@
+{
+  "name": "spotify-wallpaper",
+  "version": "1.0.0",
+  "description": "Adjusts your wallpaper to the songs you play on Spotify.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Patrick de Mooij",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.5.3",
+    "node-spotify-api": "^1.0.7",
+    "open": "0.0.5",
+    "path": "^0.12.7",
+    "spotify-web-api-node": "^4.0.0",
+    "wallpaper": "^4.1.0"
+  }
+}

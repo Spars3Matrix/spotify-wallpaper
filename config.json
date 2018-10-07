@@ -1,0 +1,14 @@
+{
+    "wallpaperWidth": 1920,
+    "wallpaperHeight": 1080,
+    "coverWidth": 700,
+    "coverHeight": 700,
+    "blur": 25,
+    "coverFit": false,
+    "clientId": "",
+    "clientSecret": "",
+    "port": 3001,
+    "interval": 60,
+    "log": "./log.txt",
+    "output": ""
+}
