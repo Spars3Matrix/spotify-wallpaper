@@ -28,6 +28,6 @@ const configuration = require('./src/configuration');
             }
         }
     };
-    setInterval(updateWallpaper, configuration.interval);
+    setInterval(updateWallpaper, configuration.interval * 1000);
     updateWallpaper();
 }).call();
