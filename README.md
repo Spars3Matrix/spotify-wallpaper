@@ -1,9 +1,9 @@
 # Spotify Wallpaper
 
 ## Getting started
-When you've downloaded this project you have to do a few things to get it up and running.
+When you've downloaded the most recent [release](https://github.com/Spars3Matrix/spotify-wallpaper/releases/latest) you have to do a few things to get it up and running.
 
-First you have to make sure NodeJS is installed.
+First, you have to make sure NodeJS is installed.
 
 Second, you need to install the dependencies. This can easily be done by running the next command in the root folder of the project.
 
